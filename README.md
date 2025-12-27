@@ -31,7 +31,7 @@ Este sistema resolve a dificuldade de anotar e organizar esses registros de form
 
 ### 1. Copiar o Template
 
-1. Acesse o [Template da Planilha](https://docs.google.com/spreadsheets/d/TEMPLATE_ID/copy) *(em breve)*
+1. Acesse o [Template da Planilha](https://docs.google.com/spreadsheets/d/1cydSYTOC9URJ_YXjcYn2a5Wb2mCP4d_cyH2eBp38hTU/copy)
 2. Clique em "Fazer uma copia"
 3. Uma nova planilha sera criada na sua conta Google
 
