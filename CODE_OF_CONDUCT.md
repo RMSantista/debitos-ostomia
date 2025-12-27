@@ -1,33 +1,33 @@
-# Codigo de Conduta
+# Código de Conduta
 
 ## Nosso Compromisso
 
-Nos, como membros, contribuidores e mantenedores, nos comprometemos a tornar a participacao em nossa comunidade uma experiencia livre de assedio para todos, independentemente de idade, tamanho corporal, deficiencia visivel ou invisivel, etnia, caracteristicas sexuais, identidade e expressao de genero, nivel de experiencia, educacao, status socioeconomico, nacionalidade, aparencia pessoal, raca, religiao ou identidade e orientacao sexual.
+Nós, como membros, contribuidores e mantenedores, nos comprometemos a tornar a participação em nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-## Nossos Padroes
+## Nossos Padrões
 
 Exemplos de comportamento que contribuem para um ambiente positivo:
 
 - Usar linguagem acolhedora e inclusiva
-- Respeitar pontos de vista e experiencias diferentes
-- Aceitar criticas construtivas com graca
-- Focar no que e melhor para a comunidade
+- Respeitar pontos de vista e experiências diferentes
+- Aceitar críticas construtivas com graça
+- Focar no que é melhor para a comunidade
 - Mostrar empatia com outros membros da comunidade
 
-Exemplos de comportamento inaceitavel:
+Exemplos de comportamento inaceitável:
 
 - Uso de linguagem ou imagens sexualizadas
-- Comentarios insultuosos/depreciativos e ataques pessoais ou politicos
-- Assedio publico ou privado
-- Publicar informacoes privadas de outros sem permissao
+- Comentários insultuosos/depreciativos e ataques pessoais ou políticos
+- Assédio público ou privado
+- Publicar informações privadas de outros sem permissão
 - Outra conduta que poderia ser considerada inapropriada
 
-## Aplicacao
+## Aplicação
 
-Casos de comportamento abusivo, de assedio ou inaceitavel podem ser reportados entrando em contato com os mantenedores do projeto.
+Casos de comportamento abusivo, de assédio ou inaceitável podem ser reportados entrando em contato com os mantenedores do projeto.
 
-Todas as reclamacoes serao revisadas e investigadas e resultarao em uma resposta considerada necessaria e apropriada as circunstancias.
+Todas as reclamações serão revisadas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias.
 
-## Atribuicao
+## Atribuição
 
-Este Codigo de Conduta e adaptado do [Contributor Covenant](https://www.contributor-covenant.org/), versao 2.0.
+Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org/), versão 2.0.

@@ -1,39 +1,39 @@
-# Politica de Seguranca
+# Política de Segurança
 
 ## Reportando Vulnerabilidades
 
-Se voce descobrir uma vulnerabilidade de seguranca, por favor **NAO** abra uma issue publica.
+Se você descobrir uma vulnerabilidade de segurança, por favor **NÃO** abra uma issue pública.
 
 Em vez disso, envie um email para o mantenedor do projeto ou use o recurso de "Report a vulnerability" do GitHub (aba Security).
 
-## Praticas de Seguranca
+## Práticas de Segurança
 
-Este projeto segue as seguintes praticas:
+Este projeto segue as seguintes práticas:
 
 ### Armazenamento de Dados
 
-- Todos os dados sao armazenados na conta Google do proprio usuario
-- Nenhum dado e enviado para servidores externos
-- O codigo roda inteiramente no ambiente do Google Apps Script
+- Todos os dados são armazenados na conta Google do próprio usuário
+- Nenhum dado é enviado para servidores externos
+- O código roda inteiramente no ambiente do Google Apps Script
 
-### Permissoes
+### Permissões
 
-O sistema requer as seguintes permissoes:
-- Acesso a planilha especifica (para ler/escrever dados)
-- Execucao como webapp (para o formulario mobile)
+O sistema requer as seguintes permissões:
+- Acesso à planilha específica (para ler/escrever dados)
+- Execução como webapp (para o formulário mobile)
 
-### Boas Praticas para Usuarios
+### Boas Práticas para Usuários
 
-1. **Nao compartilhe a URL do webapp** com pessoas nao autorizadas
-2. **Revise as permissoes** concedidas ao script
-3. **Mantenha sua conta Google segura** com autenticacao de dois fatores
+1. **Não compartilhe a URL do webapp** com pessoas não autorizadas
+2. **Revise as permissões** concedidas ao script
+3. **Mantenha sua conta Google segura** com autenticação de dois fatores
 
-## Versoes Suportadas
+## Versões Suportadas
 
-| Versao | Suportada |
+| Versão | Suportada |
 | ------ | --------- |
 | 1.x    | Sim       |
 
-## Atualizacoes de Seguranca
+## Atualizações de Segurança
 
-Atualizacoes de seguranca serao publicadas assim que disponiveis e anunciadas no repositorio.
+Atualizações de segurança serão publicadas assim que disponíveis e anunciadas no repositório.

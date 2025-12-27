@@ -1,50 +1,50 @@
-# Guia de Contribuicao
+# Guia de Contribuição
 
-Obrigado por considerar contribuir com o projeto! Este documento explica como voce pode ajudar.
+Obrigado por considerar contribuir com o projeto! Este documento explica como você pode ajudar.
 
 ## Como Contribuir
 
 ### Reportando Bugs
 
-1. Verifique se o bug ja foi reportado em [Issues](https://github.com/RMSantista/debitos-ostomia/issues)
-2. Se nao, abra uma nova issue usando o template de bug report
-3. Inclua o maximo de detalhes possivel:
+1. Verifique se o bug já foi reportado em [Issues](https://github.com/RMSantista/debitos-ostomia/issues)
+2. Se não, abra uma nova issue usando o template de bug report
+3. Inclua o máximo de detalhes possível:
    - Passos para reproduzir
    - Comportamento esperado vs atual
-   - Screenshots se aplicavel
-   - Navegador e versao
+   - Screenshots se aplicável
+   - Navegador e versão
 
 ### Sugerindo Melhorias
 
 1. Abra uma issue usando o template de feature request
-2. Descreva a melhoria e por que seria util
-3. Considere como outros usuarios poderiam se beneficiar
+2. Descreva a melhoria e por que seria útil
+3. Considere como outros usuários poderiam se beneficiar
 
-### Enviando Codigo
+### Enviando Código
 
-1. Fork o repositorio
+1. Fork o repositório
 2. Crie uma branch: `git checkout -b feature/minha-feature`
-3. Faca suas alteracoes
+3. Faça suas alterações
 4. Commit: `git commit -m "feat: adiciona minha feature"`
 5. Push: `git push origin feature/minha-feature`
 6. Abra um Pull Request
 
-## Padroes de Codigo
+## Padrões de Código
 
 ### Google Apps Script (JavaScript ES5)
 
 ```javascript
-// Use var (nao let/const - Apps Script usa ES5)
+// Use var (não let/const - Apps Script usa ES5)
 var minhaVariavel = 'valor';
 
-// Funcoes documentadas com JSDoc
+// Funções documentadas com JSDoc
 /**
- * Descricao da funcao
- * @param {string} parametro - Descricao do parametro
- * @return {number} Descricao do retorno
+ * Descrição da função
+ * @param {string} parametro - Descrição do parâmetro
+ * @return {number} Descrição do retorno
  */
 function minhaFuncao(parametro) {
-  // implementacao
+  // implementação
 }
 
 // Nomes descritivos
@@ -54,19 +54,19 @@ function calc() {}                  // evite
 
 ### HTML/CSS
 
-- Indentacao: 2 espacos
+- Indentação: 2 espaços
 - Classes em kebab-case: `.minha-classe`
 - Mobile-first
 
 ### Commits
 
-Use o padrao Conventional Commits:
+Use o padrão Conventional Commits:
 
 - `feat:` Nova funcionalidade
-- `fix:` Correcao de bug
-- `docs:` Documentacao
-- `style:` Formatacao
-- `refactor:` Refatoracao
+- `fix:` Correção de bug
+- `docs:` Documentação
+- `style:` Formatação
+- `refactor:` Refatoração
 - `test:` Testes
 
 ## Estrutura do Projeto
@@ -82,13 +82,13 @@ src/
 ## Testando
 
 1. Crie uma planilha de teste no Google Sheets
-2. Copie o codigo para `Extensoes > Apps Script`
+2. Copie o código para `Extensões > Apps Script`
 3. Teste todas as funcionalidades antes de enviar PR
 
-## Duvidas?
+## Dúvidas?
 
 Abra uma [Discussion](https://github.com/RMSantista/debitos-ostomia/discussions) ou envie uma mensagem.
 
 ---
 
-Agradecemos sua contribuicao!
+Agradecemos sua contribuição!
