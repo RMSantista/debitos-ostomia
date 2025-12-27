@@ -1,0 +1,42 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (para clasp)
+node_modules/
+npm-debug.log*
+
+# Google Apps Script (clasp)
+.clasprc.json
+.clasp-credentials.json
+.clasp.json
+
+# Dados Sensiveis
+*.credentials
+*.token
+.env
+.env.local
+secrets/
+
+# Temporarios
+*.bak
+*.log
+tmp/
+temp/
+*.backup
+
+# Build
+dist/
+build/
+
+# Arquivos compactados
+*.zip
+*.tar.gz
